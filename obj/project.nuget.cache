@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9AVO0ufqIbcZ8xnuu7sD7KEY1Wec1ysgIw0ppohrxS5Ri7e1FsUvA8GCUFQIW4ZBi97eFK2Dr/dqDQNxUTzCkw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\iagod\\Desktop\\marvelApi\\marvelApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\iagod\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
