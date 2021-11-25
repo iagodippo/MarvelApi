@@ -1,8 +1,3 @@
-C:\Users\iagod\Desktop\marvelApi\obj\Debug\net5.0\marvelApi.csproj.AssemblyReference.cache
-C:\Users\iagod\Desktop\marvelApi\obj\Debug\net5.0\marvelApi.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\iagod\Desktop\marvelApi\obj\Debug\net5.0\marvelApi.AssemblyInfoInputs.cache
-C:\Users\iagod\Desktop\marvelApi\obj\Debug\net5.0\marvelApi.AssemblyInfo.cs
-C:\Users\iagod\Desktop\marvelApi\obj\Debug\net5.0\marvelApi.csproj.CoreCompileInputs.cache
 C:\Users\iagod\Desktop\marvelApi\bin\Debug\net5.0\marvelApi.exe
 C:\Users\iagod\Desktop\marvelApi\bin\Debug\net5.0\marvelApi.deps.json
 C:\Users\iagod\Desktop\marvelApi\bin\Debug\net5.0\marvelApi.runtimeconfig.json
@@ -11,6 +6,12 @@ C:\Users\iagod\Desktop\marvelApi\bin\Debug\net5.0\marvelApi.dll
 C:\Users\iagod\Desktop\marvelApi\bin\Debug\net5.0\ref\marvelApi.dll
 C:\Users\iagod\Desktop\marvelApi\bin\Debug\net5.0\marvelApi.pdb
 C:\Users\iagod\Desktop\marvelApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\iagod\Desktop\marvelApi\bin\Debug\net5.0\Refit.dll
+C:\Users\iagod\Desktop\marvelApi\obj\Debug\net5.0\marvelApi.csproj.AssemblyReference.cache
+C:\Users\iagod\Desktop\marvelApi\obj\Debug\net5.0\marvelApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iagod\Desktop\marvelApi\obj\Debug\net5.0\marvelApi.AssemblyInfoInputs.cache
+C:\Users\iagod\Desktop\marvelApi\obj\Debug\net5.0\marvelApi.AssemblyInfo.cs
+C:\Users\iagod\Desktop\marvelApi\obj\Debug\net5.0\marvelApi.csproj.CoreCompileInputs.cache
 C:\Users\iagod\Desktop\marvelApi\obj\Debug\net5.0\marvelApi.csproj.CopyComplete
 C:\Users\iagod\Desktop\marvelApi\obj\Debug\net5.0\marvelApi.dll
 C:\Users\iagod\Desktop\marvelApi\obj\Debug\net5.0\ref\marvelApi.dll

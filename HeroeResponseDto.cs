@@ -1,17 +1,21 @@
+using System.Collections.Generic;
+using Newtonsoft.Json;
+
 namespace marvelApi
 {
-    using Newtonsoft.Json;
-    public class HeroesResponse
+    public class HeroeResponseDto
     {
         [JsonProperty("data")]
-        public Data Data { get; set; }
+        public DataResponseDto Data { get; set; }
     }
-    public class Data
+
+    public class DataResponseDto
     {
         [JsonProperty("results")]
-        public Results Results { get; set; }
+        public List<ResultsResponseDto> Results { get; set; }
     }
-    public class Results
+
+    public class ResultsResponseDto
     {
         [JsonProperty("name")]
         public string Name { get; set; }

@@ -40,9 +40,13 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
-            "Newtonsoft.Json": {
+            "newtonsoft.json": {
               "target": "Package",
               "version": "[13.0.1, )"
+            },
+            "refit": {
+              "target": "Package",
+              "version": "[6.1.15, )"
             }
           },
           "imports": [
